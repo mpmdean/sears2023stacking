@@ -20,12 +20,6 @@ Work with this by installing `docker <https://www.docker.com/>`_ and pip and the
 
 Change `tree` to `lab` in the URL for JupyterLab. 
 
-The large datafile is stored using `git lfs <https://git-lfs.com/>`_. Download the files using
-
-.. code-block:: bash
-
-       git lfs clone https://github.com/mpmdean/Sears2023structure.git
-
 Run remotely
 ------------
 
