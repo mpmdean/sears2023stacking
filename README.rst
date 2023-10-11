@@ -1,11 +1,11 @@
 ==========================================================
 Data Repository
 ==========================================================
-Source code and data files for the manuscript Structure of Charge Density Waves in La1.875Ba0.125CuO4, J. Sears, Y. Shen, M. J. Krogstad, H. Miao, E. S. Bozin, I. K. Robinson, G. D. Gu, R. Osborn, S. Rosenkranz, J. M. Tranquada, and M. P. M. Dean. Execute the *.ipynb files to view the data.
+Source code and data files for the manuscript Stacking disorder in alpha-RuCl3 via x-ray three-dimensional difference pair distribution function analysis, J. Sears, Y. Shen, M. J. Krogstad, H. Miao, Jiaqiang Yan, Subin Kim, W. He, E. S. Bozin, I. K. Robinson, R. Osborn, S. Rosenkranz, and M. P. M. Dean. Execute the *.ipynb files to view the data.
 
 How to cite
 -----------
-If this data is used, please cite, Structure of Charge Density Waves in La1.875Ba0.125CuO4 J. Sears, Y. Shen, M. J. Krogstad, H. Miao, E. S. Bozin, I. K. Robinson, G. D. Gu, R. Osborn, S. Rosenkranz, J. M. Tranquada, and M. P. M. Dean, Phys. Rev. B (2023)
+If this data is used, please cite, Stacking disorder in alpha-RuCl3 via x-ray three-dimensional difference pair distribution function analysis, J. Sears, Y. Shen, M. J. Krogstad, H. Miao, Jiaqiang Yan, Subin Kim, W. He, E. S. Bozin, I. K. Robinson, R. Osborn, S. Rosenkranz, and M. P. M. Dean., Phys. Rev. B (2023)
 
 
 Run locally
@@ -30,4 +30,4 @@ Run remotely
 ------------
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/mpmdean/Sears2023structure/HEAD
+ :target: https://mybinder.org/v2/gh/mpmdean/sears2023stacking/HEAD
