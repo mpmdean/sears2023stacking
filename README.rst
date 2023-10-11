@@ -1,7 +1,7 @@
 ==========================================================
 Data Repository
 ==========================================================
-Ssf,kjasflkjasflkajsdfljource code and data files for the manuscript Stacking disorder in alpha-RuCl3 via x-ray three-dimensional difference pair distribution function analysis, J. Sears, Y. Shen, M. J. Krogstad, H. Miao, Jiaqiang Yan, Subin Kim, W. He, E. S. Bozin, I. K. Robinson, R. Osborn, S. Rosenkranz, and M. P. M. Dean. Execute the *.ipynb files to view the data.
+Source code and data files for the manuscript Stacking disorder in alpha-RuCl3 via x-ray three-dimensional difference pair distribution function analysis, J. Sears, Y. Shen, M. J. Krogstad, H. Miao, Jiaqiang Yan, Subin Kim, W. He, E. S. Bozin, I. K. Robinson, R. Osborn, S. Rosenkranz, and M. P. M. Dean. Execute the *.ipynb files to view the data.
 
 How to cite
 -----------
