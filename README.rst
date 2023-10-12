@@ -24,4 +24,4 @@ Run remotely
 ------------
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/mpmdean/sears2023stacking/HEAD
+ :target: https://mybinder.org/v2/gh/mpmdean/sears2023stacking/main
