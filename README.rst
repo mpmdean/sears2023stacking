@@ -5,7 +5,7 @@ Source code and data files for the manuscript Stacking disorder in alpha-RuCl3 v
 
 How to cite
 -----------
-If this data is used, please cite, Stacking disorder in alpha-RuCl3 via x-ray three-dimensional difference pair distribution function analysis, J. Sears, Y. Shen, M. J. Krogstad, H. Miao, Jiaqiang Yan, Subin Kim, W. He, E. S. Bozin, I. K. Robinson, R. Osborn, S. Rosenkranz, and M. P. M. Dean., Phys. Rev. B (2023)
+If this data is used, please cite, Stacking disorder in alpha-RuCl3 via x-ray three-dimensional difference pair distribution function analysis, J. Sears, Y. Shen, M. J. Krogstad, H. Miao, Jiaqiang Yan, Subin Kim, W. He, E. S. Bozin, I. K. Robinson, R. Osborn, S. Rosenkranz, and M. P. M. Dean., Phys. Rev. B 108, 144419 (2023)
 
 
 Run locally
